@@ -1,1 +1,1 @@
-# data-science-lesson
+# Online lessons and projects
